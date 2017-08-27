@@ -22,6 +22,8 @@ Vous avez cependant des **quêtes** à remplir si vous cherchez des *objectif* (
 En cas de défaite, vous devrez tout simplement *recommencer le jeu* .
 
 ## Gameplay
+### Comment jouer ?
+[nom du jeu] se joue en multijoueur dans un monde où les serviteurs sont des PNJ (robots du serveur) et les esprits majoritairement des joueurs .
 ### Comment obtenir des serviteurs ?
 Vous commencez le jeu avec *deux serviteurs* à choisir parmi les moins intéressants (sinon ce serait trop simple) .
 
@@ -49,8 +51,8 @@ Notez que tous les monstres ne sont *pas capables de tout faire*, certains sont 
 ### Les instructions
 Lorsque vous demmandez à un monstre d'effectuer une *instruction* il sortira de votre *antre* et reviendra vous *dire qu'elle a bien été effectuée* .
 **Vous ne pouvez pas sortir vous même** et le seul moyen de vérifier que les actions ont bien été faites est de *demmander a un serviteur d'aller vérifier* .
-Les actions ont des **durées semblables aux temp réel** ex: manger 30 min, faire 10 km à pied 2h, aller piller le voisin 45min etc.
-Bien sur cous pouvez donner des *suites d'instructions* pour ne pas avoir à revenir sur notre page toutes le demi-heures .
+Les actions ont des **durées semblables au temp réel** ex: manger 30 min, faire 10 km à pied 2h, aller piller le voisin 45 min etc.
+Bien sur, vous pouvez donner des *suites d'instructions* pour ne pas avoir à revenir sur notre page toutes les demi-heures .
 Vous pouvez même définir des *routines* pour les monstres aux actions répétés .
 ### La nourriture
 Malheureusement les serviteurs *mangent beaucoup* et la nourriture est *dure a obtenir* .
